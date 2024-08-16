@@ -6,11 +6,11 @@ Fynn Huber
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+ Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
    
-2. Welches der Module 231, 320, 322 scheint Ihnen besonders wichtig? Wo brauchen Sie am meisten Übung?
+ Welches der Module 231, 320, 322 scheint Ihnen besonders wichtig? Wo brauchen Sie am meisten Übung?
    
-3. Was wäre ein geeignetes Projekt für diese LP6? Würde sich dieses auch eignen, um es Ihrer Bewerbung hinzuzufügen?
+ Was wäre ein geeignetes Projekt für diese LP6? Würde sich dieses auch eignen, um es Ihrer Bewerbung hinzuzufügen?
    
 
  &nbsp;
