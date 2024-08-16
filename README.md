@@ -2,7 +2,7 @@
 
 Fynn Huber
 
-23.4 bis 25.6.2024
+12.8 bis 27.9.2024
 
 ## Grob-Planung
 
