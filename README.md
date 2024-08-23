@@ -21,8 +21,8 @@ Fynn Huber
 
 ### 23.08.2024
 
-- [ ] bigrams Auftrag lösen       
-- [ ] M320 Auftrag LA4205 erledigen 
+- [x] bigrams Auftrag lösen       
+- [x] M320 Auftrag LA4205 erledigen 
 - [ ] M320 projektidee finden zur vertiefung des gelernten
 - [ ] Projek anfangen
       
@@ -30,7 +30,7 @@ Fynn Huber
 &nbsp;
 
 **Heute habe ich**                                                                              
-....
+Heute habe ich das Bigram Rätsel gemacht und bin nun dran dies noch wie von der Lehrperson erwähnt weiter zu führen. Ich möchte durch berechnung der häufigkeit der Buchstaben die Sprache des Textes definieren. Anschliessend habe ich für das Modul 320 noch einen Auftrag gemacht den ich nicht während des Unterrichts fertig machen konnte.
 
  &nbsp;
  
@@ -38,9 +38,10 @@ Fynn Huber
 
 ### 30.08.2024
 
-- [ ]        
-- [ ]  
-- [ ] 
+- [ ] Applikation welche die sprache eines Textes herausfindet        
+- [ ] In der Applikation verschiendeste Texte in verschiednenen sprachen implementieren um eine gewisse Variation zu haben
+- [ ] M320 Konstruktoren nochmal reptieren / besser verstehen
+- [ ] Ein Projekt in zusammenhang zum M320 fürs Lernatelier definieren
       
 &nbsp;
 
