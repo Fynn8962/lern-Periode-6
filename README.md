@@ -19,12 +19,11 @@ Fynn Huber
  
  &nbsp;
 
-### 07.05.2024
+### 23.08.2024
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] bigrams Auftrag lösen       
+- [ ] M320 Auftrag LA4205 erledigen 
+- [ ] M320 projektidee finden zur vertiefung des gelernten
       
 &nbsp;
 
