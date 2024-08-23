@@ -24,6 +24,8 @@ Fynn Huber
 - [ ] bigrams Auftrag lösen       
 - [ ] M320 Auftrag LA4205 erledigen 
 - [ ] M320 projektidee finden zur vertiefung des gelernten
+- [ ] Projek anfangen
+      
       
 &nbsp;
 
