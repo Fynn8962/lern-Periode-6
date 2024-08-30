@@ -56,8 +56,8 @@ Als erstes habe ich den Auftrag 4207 aus dem Moudl 320 gemacht. In diesem Auftra
     
 - [ ] Promillerechner eingabe der Daten Coden
 - [ ] Promillerechner verarbeitung der Daten und anschliessend Ausgabe.
-- [ ] Im Modul 320 allfällige Aufträge nachholen.
-- [ ] 
+- [ ] DEn Promillerechner mit Daten Testen. (evt. Erweiterungsauftrag bearbeiten)
+- [ ]  Im Modul 320 allfällige Aufträge nachholen. (LA_xxxx, LA_xxxx)
       
 &nbsp;
 
