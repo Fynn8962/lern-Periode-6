@@ -38,7 +38,7 @@ Heute habe ich das Bigram Rätsel gemacht und bin nun dran dies noch wie von der
 
 ### 30.08.2024
 
-- [ ] M320 LA_4207 nachholen       
+- [x] M320 LA_4207 nachholen       
 - [ ] M320 LA_4209 nachholen
 - [ ] Um Themen des Moduls 320 zu repitieren eine Prjektidee finden.
 - [ ] Anfangen mit der Projektidee im bezug auf das Modul320
@@ -46,3 +46,4 @@ Heute habe ich das Bigram Rätsel gemacht und bin nun dran dies noch wie von der
 &nbsp;
 
 **Heute habe ich...**         
+Als erstes habe ich den Auftrag 4207 aus dem Moudl 320 gemacht. In diesem Auftrag ging es um Methoden und Methodenüberladung. Ich musste zuerst wieder die Powerpoint repitieren da ich vergessen hatte wie die Methoden bzw. vorallem die Überladung funktionierte. Ich finde das ganze Modul 320 sehr wichtig weshalb ich mir mehr Zeit für den Auftrag genommen habe um Dinge genauer zu verstehen.
