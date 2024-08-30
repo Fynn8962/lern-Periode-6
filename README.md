@@ -1,4 +1,4 @@
-# lern-Periode-6
+# Lern-Periode-6
 
 Fynn Huber
 
