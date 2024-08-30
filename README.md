@@ -38,10 +38,10 @@ Heute habe ich das Bigram Rätsel gemacht und bin nun dran dies noch wie von der
 
 ### 30.08.2024
 
-- [ ] Applikation welche die sprache eines Textes herausfindet        
-- [ ] In der Applikation verschiendeste Texte in verschiednenen sprachen implementieren um eine gewisse Variation zu haben
-- [ ] M320 Konstruktoren nochmal reptieren / besser verstehen
-- [ ] Ein Projekt in zusammenhang zum M320 fürs Lernatelier definieren
+- [ ] M320 LA_4207 nachholen       
+- [ ] M320 LA_4209 nachholen
+- [ ] Um Themen des Moduls 320 zu repitieren eine Prjektidee finden.
+- [ ] Anfangen mit der Projektidee im bezug auf das Modul320
       
 &nbsp;
 
