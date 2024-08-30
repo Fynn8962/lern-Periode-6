@@ -46,4 +46,19 @@ Heute habe ich das Bigram Rätsel gemacht und bin nun dran dies noch wie von der
 &nbsp;
 
 **Heute habe ich...**         
-Als erstes habe ich den Auftrag 4207 aus dem Moudl 320 gemacht. In diesem Auftrag ging es um Methoden und Methodenüberladung. Ich musste zuerst wieder die Powerpoint repitieren da ich vergessen hatte wie die Methoden bzw. vorallem die Überladung funktionierte. Ich finde das ganze Modul 320 sehr wichtig weshalb ich mir mehr Zeit für den Auftrag genommen habe um Dinge genauer zu verstehen.
+Als erstes habe ich den Auftrag 4207 aus dem Moudl 320 gemacht. In diesem Auftrag ging es um Methoden und Methodenüberladung. Ich musste zuerst wieder die Powerpoint repitieren da ich vergessen hatte wie die Methoden bzw. vorallem die Überladung funktionierte. Den Code des Auftrages habe ich hochgeladen.  Ich finde das ganze Modul 320 sehr wichtig weshalb ich mir mehr Zeit für den Auftrag genommen habe um Dinge genauer zu verstehen. Anschliessend habe ich angefangen mit dem Promillerechner (LA_4209). DIes ist ein sehr grosse Auftrag und ich habe bis jetz das Klassengerüst der einzelnen Klassen erstellt. nächsten mal möchte ich daran fortfahren.
+
+ &nbsp;
+ 
+ &nbsp;
+
+### 30.08.2024
+    
+- [ ] Promillerechner eingabe der Daten Coden
+- [ ] Promillerechner verarbeitung der Daten und anschliessend Ausgabe.
+- [ ] Im Modul 320 allfällige Aufträge nachholen.
+- [ ] 
+      
+&nbsp;
+
+**Heute habe ich...** 
