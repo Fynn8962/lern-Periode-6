@@ -57,8 +57,10 @@ Als erstes habe ich den Auftrag 4207 aus dem Moudl 320 gemacht. In diesem Auftra
 - [ ] Promillerechner eingabe der Daten Coden
 - [ ] Promillerechner verarbeitung der Daten und anschliessend Ausgabe.
 - [ ] DEn Promillerechner mit Daten Testen. (evt. Erweiterungsauftrag bearbeiten)
-- [ ]  Im Modul 320 allfällige Aufträge nachholen. (LA_xxxx, LA_xxxx)
+- [x]  Im Modul 322 den Auftrag 0206 (Lo-Fi Prototypen) noch Fertig machen.
       
 &nbsp;
 
-**Heute habe ich...** 
+**Heute habe ich...**                
+Ich habe zuerst den Afutrag 0206 aus dem Modul 322 fertig gemacht. In diesem musste ich zu einem Szenario / User-storie ein Lo-Fi Prototypen erstellen. Der Prototyp beschreibt grob wie das Buchen eines Termins auf einer Website ablaufen könnte.
+.....
