@@ -54,13 +54,13 @@ Als erstes habe ich den Auftrag 4207 aus dem Moudl 320 gemacht. In diesem Auftra
 
 ### 30.08.2024
     
-- [ ] Promillerechner eingabe der Daten Coden
-- [ ] Promillerechner verarbeitung der Daten und anschliessend Ausgabe.
-- [ ] DEn Promillerechner mit Daten Testen. (evt. Erweiterungsauftrag bearbeiten)
+- [x] Promillerechner eingabe der Daten Coden
+- [x] Promillerechner verarbeitung der Daten und anschliessend Ausgabe.
+- [x] DEn Promillerechner mit Daten Testen. (evt. Erweiterungsauftrag bearbeiten)
 - [x]  Im Modul 322 den Auftrag 0206 (Lo-Fi Prototypen) noch Fertig machen.
       
 &nbsp;
 
 **Heute habe ich...**                
-Ich habe zuerst den Afutrag 0206 aus dem Modul 322 fertig gemacht. In diesem musste ich zu einem Szenario / User-storie ein Lo-Fi Prototypen erstellen. Der Prototyp beschreibt grob wie das Buchen eines Termins auf einer Website ablaufen könnte.
+Ich habe zuerst den Afutrag 0206 aus dem Modul 322 fertig gemacht. In diesem musste ich zu einem Szenario / User-storie ein Lo-Fi Prototypen erstellen. Der Prototyp beschreibt grob wie das Buchen eines Termins auf einer Website ablaufen könnte. Danach habe ich weiter am Promillerechner gearbeitet. Zuerst habe Ich die Abfrage und Eingabe der Daten implementiert. Anschliessend habe ich die Berechnung der Werte programmiert. Anfangs hatte ich Probleme mit der richtigen Berechnung der Uhrzeiten um eine eingegeben Uhrzeit mit der Aktuellen Uhrzeit zu vergleichen und dann die Zeit zu bestimmen die vergangen ist. Am Schluss habe ich den Promillerechner mit den Daten aus dem Auftrag verglichen und bin auf ähnliche Resultate gekommen. Ich bin mir nicht sicher wieso die Resultate sich manchmal um 0,01 Stellen unterscheiden, dies möchte ich noch bei genügend Zeit herausfinden. 
 .....
