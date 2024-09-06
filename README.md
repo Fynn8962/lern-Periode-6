@@ -36,7 +36,7 @@ Heute habe ich das Bigram Rätsel gemacht und bin nun dran dies noch wie von der
  
  &nbsp;
 
-### 30.08.2024
+### 06.09.2024
 
 - [x] M320 LA_4207 nachholen       
 - [ ] M320 LA_4209 nachholen
@@ -56,11 +56,25 @@ Als erstes habe ich den Auftrag 4207 aus dem Moudl 320 gemacht. In diesem Auftra
     
 - [x] Promillerechner eingabe der Daten Coden
 - [x] Promillerechner verarbeitung der Daten und anschliessend Ausgabe.
-- [x] DEn Promillerechner mit Daten Testen. (evt. Erweiterungsauftrag bearbeiten)
+- [x] DEn Promillerechner mit Daten Testen.
 - [x]  Im Modul 322 den Auftrag 0206 (Lo-Fi Prototypen) noch Fertig machen.
       
 &nbsp;
 
 **Heute habe ich...**                
 Ich habe zuerst den Afutrag 0206 aus dem Modul 322 fertig gemacht. In diesem musste ich zu einem Szenario / User-storie ein Lo-Fi Prototypen erstellen. Der Prototyp beschreibt grob wie das Buchen eines Termins auf einer Website ablaufen könnte. Danach habe ich weiter am Promillerechner gearbeitet. Zuerst habe Ich die Abfrage und Eingabe der Daten implementiert. Anschliessend habe ich die Berechnung der Werte programmiert. Anfangs hatte ich Probleme mit der richtigen Berechnung der Uhrzeiten um eine eingegeben Uhrzeit mit der Aktuellen Uhrzeit zu vergleichen und dann die Zeit zu bestimmen die vergangen ist. Am Schluss habe ich den Promillerechner mit den Daten aus dem Auftrag verglichen und bin auf ähnliche Resultate gekommen. Ich bin mir nicht sicher wieso die Resultate sich manchmal um 0,01 Stellen unterscheiden, dies möchte ich noch bei genügend Zeit herausfinden. 
-.....
+
+ &nbsp;
+ 
+ &nbsp;
+
+### 13.09.2024
+    
+- [ ] Promillerechner Erweiterung damit verschiedene Arten von Getränken eingelesen werden können
+- [ ] ...
+- [ ] ...
+- [ ] ...
+      
+&nbsp;
+
+**Heute habe ich...**                
