@@ -70,11 +70,12 @@ Ich habe zuerst den Afutrag 0206 aus dem Modul 322 fertig gemacht. In diesem mus
 
 ### 13.09.2024
     
-- [ ] Promillerechner Erweiterung damit verschiedene Arten von Getränken eingelesen werden können
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [x] Modul 322 LA_0402
+- [x] Modul 322 LA_0301 (HTML CSS Prototyp)
+- [ ] Modul 320 LA_4211 (Assoziationen)
+- [ ] Promillerechner Erweiterungsauftrag abschliessen
       
 &nbsp;
 
-**Heute habe ich...**                
+**Heute habe ich...**         
+Heute habe ich viel an den Modueln gearbeitet da ich während der Schule nicht so richtig vorangekommen bin. Zuerst habe ich ein Vorlage eines Lo-Fi Prototypen und musste diesen Testen. Durch die Powerpoint die den Prozess sehr einfach beschrieben hat hatte ich keine Probleme dabei. Anschliessend habe ich einen grossen Auftrag angefangen in welchem ich einen Hi-Fi Prototypen mit HTML & CSS erstellen musste. Da ich lange nicht mehr mit HTML bzw. CSS gearbeitet habe hat es ein wenig gedauert bis ich wieder reingekommen bin. Der fertige Prototyp stellte ein Szenario dar in welchem ein Benutzer sich anmelden und dan sich einen Termin buchen kann bei einer Arztpraxis.
