@@ -79,3 +79,19 @@ Ich habe zuerst den Afutrag 0206 aus dem Modul 322 fertig gemacht. In diesem mus
 
 **Heute habe ich...**         
 Heute habe ich viel an den Modueln gearbeitet da ich während der Schule nicht so richtig vorangekommen bin. Zuerst habe ich ein Vorlage eines Lo-Fi Prototypen und musste diesen Testen. Durch die Powerpoint die den Prozess sehr einfach beschrieben hat hatte ich keine Probleme dabei. Anschliessend habe ich einen grossen Auftrag angefangen in welchem ich einen Hi-Fi Prototypen mit HTML & CSS erstellen musste. Da ich lange nicht mehr mit HTML bzw. CSS gearbeitet habe hat es ein wenig gedauert bis ich wieder reingekommen bin. Der fertige Prototyp stellte ein Szenario dar in welchem ein Benutzer sich anmelden und dan sich einen Termin buchen kann bei einer Arztpraxis.
+
+ &nbsp;
+ 
+ &nbsp;
+
+### 20.09.2024
+    
+- [ ] An der LB im Moudl 322 weiter arbeiten
+- [ ] (Idee für ein Projekt?...)
+- [ ] ...
+- [ ] ...
+      
+&nbsp;
+
+**Heute habe ich...**         
+
