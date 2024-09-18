@@ -86,7 +86,22 @@ Heute habe ich viel an den Modueln gearbeitet da ich während der Schule nicht s
 
 ### 20.09.2024
     
-- [ ] An der LB im Moudl 322 weiter arbeiten
+- [ ] An LB 322 arbeiten.
+- [ ] Modul 320 Auftrag 4211 nachholen
+- [ ] Modul 320 Auftrag 4212 fertig machen
+- [ ] Modul 320 Autrag 4214 für die OBA anfangen (Abgabe nach den Ferien)
+      
+&nbsp;
+
+**Heute habe ich...**         
+
+ &nbsp;
+ 
+ &nbsp;
+
+### 27.09.2024
+    
+- [ ] Eigenes Projekt: Plan machen für den Verbrauchsrechner (Bsp UML)
 - [ ] Programm das Werte Abfragt welche zur Berechnung nötig sind von folgenden Resultaten: (mittels OOP)
 - [ ] Berechnung "Kilometer pro Liter"
 - [ ] Berechnung "Liter pro 100 Kilometer"
@@ -94,4 +109,3 @@ Heute habe ich viel an den Modueln gearbeitet da ich während der Schule nicht s
 &nbsp;
 
 **Heute habe ich...**         
-
