@@ -86,10 +86,10 @@ Heute habe ich viel an den Modueln gearbeitet da ich während der Schule nicht s
 
 ### 20.09.2024
     
-- [ ] An LB 322 arbeiten.
-- [ ] Modul 320 Auftrag 4211 nachholen
-- [ ] Modul 320 Auftrag 4212 fertig machen
-- [ ] Modul 320 Autrag 4214 für die OBA anfangen (Abgabe nach den Ferien)
+- [ ] LB 322 die Personas erstellen
+- [ ] LB 322 die Szenarien erstellen 
+- [ ] LB 322 User Stories erstellen
+- [ ] LB 322 mit dem Lo-Fi Prototypen beginnen
       
 &nbsp;
 
@@ -102,9 +102,7 @@ Heute habe ich viel an den Modueln gearbeitet da ich während der Schule nicht s
 ### 27.09.2024
     
 - [ ] Eigenes Projekt: Plan machen für den Verbrauchsrechner (Bsp UML)
-- [ ] Programm das Werte Abfragt welche zur Berechnung nötig sind von folgenden Resultaten: (mittels OOP)
-- [ ] Berechnung "Kilometer pro Liter"
-- [ ] Berechnung "Liter pro 100 Kilometer"
+- [ ] Plan umsetzen in Code mittels OOP, damit Verbrauch anhand von gewissen Werten berechnet werden kann
       
 &nbsp;
 
