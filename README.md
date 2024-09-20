@@ -87,13 +87,14 @@ Heute habe ich viel an den Modueln gearbeitet da ich während der Schule nicht s
 ### 20.09.2024
 
 - [x] LB 322 Planung der Ziele für die Website
-- [ ] LB 322 die Personas erstellen
+- [x] LB 322 die Personas erstellen
 - [ ] LB 322 die Szenarien erstellen 
 - [ ] LB 322 User Stories erstellen
       
 &nbsp;
 
-**Heute habe ich...**         
+**Heute habe ich...**        
+Heute habe ich an der LB für das Modul 322 gearbeitet. Ich habe angefangen mit der erstellung der Planung und der Dokumentation. Anschliessend musste ich die Ziele definieren. Um diese dann nach der SMART-Methode zu beurteilen musste ich nochmal die Präsentation dazu repitieren da ich mir nicht mehr sicher war, welche Punkte die SMART-Methode alles hatte. Am schluss habe ich noch die OBA des Moduls 322 gemacht. Diese OBA beinhaltet das man jeden Tag nach dem Arbeiten an der LB seinen Fortschrit niederschreibt.
 
  &nbsp;
  
@@ -102,7 +103,8 @@ Heute habe ich viel an den Modueln gearbeitet da ich während der Schule nicht s
 ### 27.09.2024
     
 - [ ] Eigenes Projekt: Plan machen für den Verbrauchsrechner (Bsp UML)
-- [ ] Plan umsetzen in Code mittels OOP, damit Verbrauch anhand von gewissen Werten berechnet werden kann
+- [ ] Plan umsetzen in Code mittels OOP, damit Verbrauch anhand von gewissen Werten berechnet werden kann.
+- [ ] Das Projekt testen mittels Werten die bereits existieren um zu überprüfen ob es wirklich geht.
       
 &nbsp;
 
