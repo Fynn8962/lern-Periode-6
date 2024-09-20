@@ -85,11 +85,11 @@ Heute habe ich viel an den Modueln gearbeitet da ich während der Schule nicht s
  &nbsp;
 
 ### 20.09.2024
-    
+
+- [ ] LB 322 Planung der Ziele für die Website
 - [ ] LB 322 die Personas erstellen
 - [ ] LB 322 die Szenarien erstellen 
 - [ ] LB 322 User Stories erstellen
-- [ ] LB 322 mit dem Lo-Fi Prototypen beginnen
       
 &nbsp;
 
