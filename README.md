@@ -102,9 +102,8 @@ Heute habe ich an der LB für das Modul 322 gearbeitet. Ich habe angefangen mit 
 
 ### 27.09.2024
     
-- [ ] Eigenes Projekt: Plan machen für den Verbrauchsrechner (Bsp UML)
-- [ ] Plan umsetzen in Code mittels OOP, damit Verbrauch anhand von gewissen Werten berechnet werden kann.
-- [ ] Das Projekt testen mittels Werten die bereits existieren um zu überprüfen ob es wirklich geht.
+- [ ] Das gründgerüst der OBA (M320) machen ahnand des Bereitgestellten UML
+- [ ] Die Funktionen und weiteres Implementieren so dass das Programm funktiniert.
       
 &nbsp;
 
