@@ -102,20 +102,24 @@ Heute habe ich an der LB für das Modul 322 gearbeitet. Ich habe angefangen mit 
 
 ### 27.09.2024
     
-- [ ] Das gründgerüst der OBA (M320) machen ahnand des Bereitgestellten UML
+- [x] Das gründgerüst der OBA (M320) machen ahnand des Bereitgestellten UML
 - [ ] Die Funktionen und weiteres Implementieren so dass das Programm funktiniert.
       
 &nbsp;
 
 **Heute habe ich...**         
 Heute habe ich ander OBA für das Modul 320 angefangen. In diesem Auftrag muss man mittels OOP ein Spiel programmieren das automatisch sich selbst spielt. Hierzu musste ich zuerst das Spiel verstehen. Anschliessend habe ich angefangen mit der Umsetzung. Ich habe zuerst versucht das Grundgerüst der Klassen, Funktionen usw. zu "bauen". Als unterstützung habe ich mir einen Anderen Auftrag genommen da ich bei gewissen Dingen den Syntax nicht mer wusste.
-
+ &nbsp;
+ 
+ &nbsp;
 
 
 ## Beschreibung Projekt
 Der Promillerechner fragt den Benutzer nach Daten die er braucht um die Promille zu berechnen. Es wird dan anhand dessen der Promillewert ausgegeben und ob dieser noch im Rahmen ist, bzw ob man noch Fahren darf.
 ![image](https://github.com/user-attachments/assets/05c42a27-0d5e-4209-b3e6-72a3fa38dcdd)
 ![image](https://github.com/user-attachments/assets/a60e163f-963b-4a68-9908-df7d673de98d)
-
+ &nbsp;
+ 
+ &nbsp;
 ## Reflexion
 Diese Lernperiode war die erste, in welcher wir nebenbei 3 Module bearbeiten mussten. Da ich mit dem neuen Zeitmanagement noch nicht gut zurechtgekommen bin, habe ich in dieser LP sehr viele Modulaufträge nachgeholt, um im Zeitplan zu bleiben. Trotzdem habe ich mich vor allem durch das Modul 320, in dem es um objektorientierte Programmierung geht, mit Coding beschäftigt. Ich habe zum Beispiel den Promillerechner programmiert und auch als Code hochgeladen. In der letzten Sitzung der LP6 habe ich mit einem weiteren Auftrag des Moduls angefangen, in welchem man ein Spiel von Grund auf programmieren muss. Grundsätzlich hatte ich in dieser LP leider nicht viel Zeit für eigene Projekte, da ich mich zu sehr auf die Module konzentriert habe, was ich definitiv nächstes Mal ändern will.
